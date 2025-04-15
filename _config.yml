@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Homepage"
-description              : #"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "This is the academic homepage of Dr. Huang"
 repository               : "Borgia1995/jianhaohuang.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : False
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jianhao Huang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : #"Lorem ipsum College"
+  bio              : "Post-doc Fellow in the University of Hong Kong (HKU)"
   location         : "HongKong, China"
   employer         :
   pubmed           : 
