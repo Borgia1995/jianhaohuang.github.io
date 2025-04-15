@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 #  About Me
-I am currently a Post-doctoral Fellow in the Department of Electrical and Electronic Engineering, [the University of Hong Kong (HKU)](https://www.hku.hk), supervised by Prof. Kaibin Huang. I received the Ph.D. degree in computer and information engineering from [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), China, in 2023, under the supervision of Prof. Chuan Huang and the B.Eng. in electronic engineering from the University of Electronic Science and Techonology of China (UESTC), Chengdu, China, in 2017.
+I am currently a Post-doctoral Fellow in the Department of Electrical and Electronic Engineering, [the University of Hong Kong (HKU)](https://www.hku.hk), supervised by Prof. Kaibin Huang. I received the Ph.D. degree in computer and information engineering from [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), China, in 2023, under the supervision of Prof. Chuan Huang and the B.Eng. in communication engineering from the Harbin Engineering University, Harbin, China, in 2017.
 
 My research interests include: 
 - Semantic Communications
@@ -86,7 +86,7 @@ in Proc. 2020 IEEE Global Communications Conference, 2020. [\[Paper\]](https://i
 - **J. Huang**, D. Wang and C. Huang, "Full-Duplex Amplify-and-Forward Transmitter Cooperations for Compound Multiple Access Channels," in Proc. 2018 IEEE 19th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), 2018. [\[Paper\]](https://ieeexplore.ieee.org/document/8446043)
 - D. Li, **J. Huang**, C. Huang, X. Qin, and H. Zhang, "Neural Estimation for Rate-Distortion Function in Semantic Communications," in Proc. 2023 IEEE Globecom Workshops (GC Wkshps). [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10465200)
 - D. Wang, **J. Huang**, and C. Huang, “Full-Duplex Amplify-and-Forward Receiver Cooperations for Interference Channels,” in Proc. IEEE GLOBECOM, Abu Dhabi, United Arab Emirates, Dec. 2018, pp. 206–212. [\[Paper\]](https://ieeexplore.ieee.org/document/8647900)
-- J. Yan, J. Huang and C. Huang, "Deep Learning Aided Joint Source-Channel Coding for Wireless Networks," 2021 IEEE/CIC International Conference on Communications in China (ICCC), Xiamen, China, Nov. 2021.[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9580301)
+- J. Yan, **J. Huang** and C. Huang, "Deep Learning Aided Joint Source-Channel Coding for Wireless Networks," 2021 IEEE/CIC International Conference on Communications in China (ICCC), Xiamen, China, Nov. 2021.[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9580301)
 
 # 🎖 Honors and Awards
 - *2023.12* Best Paper award in IEEE GlobeCom workshop. 
