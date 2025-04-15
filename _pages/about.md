@@ -28,7 +28,7 @@ I am currently a Post-doctoral Fellow in the Department of Electrical and Electr
   
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSAC</div><img src='images/JSAC.png' alt="sym" width="100%"></div></div>
+-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSAC</div><img src='images/JSAC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [D^2JSCC:Digital Deep Joint Source-channel
@@ -37,16 +37,7 @@ Coding for Semantic Communications](https://ieeexplore.ieee.org/abstract/documen
 **Jianhao Huang**, Kai Yuan, Chuan Huang, and Kaibin Huang
 published in IEEE Journal on Selected Areas in Communications. 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSAC</div><img src='images/JSAC.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[D^2JSCC:Digital Deep Joint Source-channel
-Coding for Semantic Communications](https://ieeexplore.ieee.org/abstract/document/10845799)
-
-**Jianhao Huang**, Kai Yuan, Chuan Huang, and Kaibin Huang
-published in IEEE Journal on Selected Areas in Communications. 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ</div><img src='images/IoT.png' alt="sym" width="100%"></div></div>
+-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ</div><img src='images/IoT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Joint Task and Data Oriented Semantic
@@ -56,7 +47,7 @@ Coding Scheme](https://arxiv.org/pdf/2302.13580)
 **Jianhao Huang**, Dongxu Li, Chuan Huang, Xiaoqi Qin, and Wei Zhang
 published in IEEE Internet of Things Journal. 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSAC</div><img src='images/JSAC2.png' alt="sym" width="100%"></div></div>
+-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSAC</div><img src='images/JSAC2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Noncoherent Massive Random Access for
