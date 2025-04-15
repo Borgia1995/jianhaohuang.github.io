@@ -78,7 +78,15 @@ published in IEEE Journal on Selected Areas in Communications.
 - D. Li, **J. Huang**, and C. Huang, "Fundamental limit of semantic communications: neural estimation for rate distortion," in Journal of Communications and Information Networks vol. 8, pp. 303 - 318, Dec. 2023.[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10387242)
 - H. Zhang, M. Lan, **J. Huang**, C. Huang and S. Cui, "Noncoherent Energy-Modulated Massive SIMO in Multipath Channels: A Machine Learning Approach," in IEEE Internet of Things Journal, vol. 7, no. 9, pp. 8263-8270, Sept. 2020. [Paper\]](https://ieeexplore.ieee.org/document/9075281)
 - M. Lan, **J. Huang**, H. Zhang and C. Huang, "Design of energy modulation massive SIMO transceivers via machine learning," in Journal of Communications and Information Networks, vol. 5, no. 3, pp. 358-368, Sept. 2020. [Paper\]](https://ieeexplore.ieee.org/document/9200899)
-- D. Wang, **J. Huang**, M. He and C. Huang, "Spectrum Transaction Games for UAV Assisted Communications," in IEEE Wireless Communications Letters, vol. 11, no. 6, pp. 1216-1219, June 2022. �url: [Paper\]](https://ieeexplore.ieee.org/document/9739724)
+- D. Wang, **J. Huang**, M. He and C. Huang, "Spectrum Transaction Games for UAV Assisted Communications," in IEEE Wireless Communications Letters, vol. 11, no. 6, pp. 1216-1219, June 2022. [\[Paper\]](https://ieeexplore.ieee.org/document/9739724)
+- **J. Huang**, D. Li, C. Huang, X. Qin, and W. Zhang, "Deep Separate Source and Channel Coding for Semantic-
+aware Image Transmission ", in Proc. 2023 IEEE International Conference on Communications (ICC) [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10279073)
+- **J. Huang**, H. Zhang, C. Huang and W. Zhang, "Compressed Multiple Random Access with Energy Modulation,"
+in Proc. 2020 IEEE Global Communications Conference, 2020. [\[Paper\]](https://ieeexplore.ieee.org/document/9348045)
+- **J. Huang**, D. Wang and C. Huang, "Full-Duplex Amplify-and-Forward Transmitter Cooperations for Compound Multiple Access Channels," in Proc. 2018 IEEE 19th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), 2018. [\[Paper\]](https://ieeexplore.ieee.org/document/8446043)
+- D. Li, **J. Huang**, C. Huang, X. Qin, and H. Zhang, "Neural Estimation for Rate-Distortion Function in Semantic Communications," in Proc. 2023 IEEE Globecom Workshops (GC Wkshps). [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10465200)
+- D. Wang, **J. Huang**, and C. Huang, “Full-Duplex Amplify-and-Forward Receiver Cooperations for Interference Channels,” in Proc. IEEE GLOBECOM, Abu Dhabi, United Arab Emirates, Dec. 2018, pp. 206–212. [\[Paper\]](https://ieeexplore.ieee.org/document/8647900)
+- J. Yan, J. Huang and C. Huang, "Deep Learning Aided Joint Source-Channel Coding for Wireless Networks," 2021 IEEE/CIC International Conference on Communications in China (ICCC), Xiamen, China, Nov. 2021.[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9580301)
 
 # 🎖 Honors and Awards
 - *2023.12* Best Paper award in IEEE GlobeCom workshop. 
