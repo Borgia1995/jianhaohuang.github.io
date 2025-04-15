@@ -17,9 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+#  About Me
 I am currently a Post-doctoral Fellow in the Department of Electrical and Electronic Engineering, [the University of Hong Kong (HKU)](https://www.hku.hk), supervised by Prof. Kaibin Huang. I received the Ph.D. degree in computer and information engineering from [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), China, in 2023, under the supervision of Prof. Chuan Huang and the B.Eng. in electronic engineering from the University of Electronic Science and Techonology of China (UESTC), Chengdu, China, in 2017.
 
-
+My research interests include: 
+- Semantic Communications
+- Massive Machine-type Communications
+- Federated Learning
+- Edge Intelligence
+  
 # 🔥 Recent News
 - *2025.01*: Our paper "Digital Deep Joint Source-channel Coding for Semantic Communications", published in IEEE JSAC [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10845799)
 - *2024.11*: Our paper "LoLaFL: Low-Latency Federated Learning via Forward-only Propagation" submitted to IEEE TWC [\[arxiv\]](https://arxiv.org/abs/2412.14668)
@@ -37,6 +43,9 @@ Coding for Semantic Communications](https://ieeexplore.ieee.org/abstract/documen
 **Jianhao Huang**, Kai Yuan, Chuan Huang, and Kaibin Huang
 published in IEEE Journal on Selected Areas in Communications. 
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ</div><img src='images/IoT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,6 +59,9 @@ published in IEEE Internet of Things Journal.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSAC</div><img src='images/JSAC2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+</div>
+</div>
+
 [Noncoherent Massive Random Access for
 Inhomogeneous Networks: from Message Passing to
 Deep Learning](https://ieeexplore.ieee.org/abstract/document/9682613)
@@ -57,7 +69,8 @@ Deep Learning](https://ieeexplore.ieee.org/abstract/document/9682613)
 **Jianhao Huang**, Han Zhang, Chuan Huang, Lian Yang, and Wei Zhang
 published in IEEE Journal on Selected Areas in Communications. 
 
-
+</div>
+</div>
 # 🎖 Honors and Awards
 - *2023.12* Best Paper award in IEEE GlobeCom workshop. 
 - *2020.12* Best Paper award in IEEE GlobeCom.
