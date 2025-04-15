@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 #  About Me
-I am currently a Post-doctoral Fellow in the Department of Electrical and Electronic Engineering, [the University of Hong Kong (HKU)](https://www.hku.hk), supervised by Prof. Kaibin Huang. I received the Ph.D. degree in computer and information engineering from [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), China, in 2023, under the supervision of Prof. Chuan Huang and the B.Eng. in communication engineering from the Harbin Engineering University, Harbin, China, in 2017.
+I am currently a Post-doctoral Fellow in the Department of Electrical and Electronic Engineering, [the University of Hong Kong (HKU)](https://www.hku.hk), supervised by Prof. Kaibin Huang. I received the Ph.D. degree in Computer and Information Engineering from [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), China, in 2023, under the supervision of Prof. Chuan Huang and the B.Eng. in Communication Engineering from the Harbin Engineering University, Harbin, China, in 2017.
 
 My research interests include: 
 - Semantic Communications
