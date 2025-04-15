@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-jjj
+I am currently a Post-doctoral Fellow in the Department of Electrical and Electronic Engineering, the University of Hong Kong (HKU), supervised by Prof. Kaibin Huang. I received the Ph.D. degree in computer and information engineering from The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), China, in 2023, under the supervision of Prof. Chuan Huang and the B.Eng. in electronic engineering from the University of Electronic Science and Techonology of China (UESTC), Chengdu, China, in 2017.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+# 🔥 Recent News
+-- *2025.01*: Our paper "Digital Deep Joint Source-channel Coding for Semantic Communications", published in IEEE JSAC [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10845799)
+- *2024.11*: Our paper "LoLaFL: Low-Latency Federated Learning via Forward-only Propagation" submitted to IEEE TWC [\[arxiv\]](https://arxiv.org/abs/2412.14668)
+- *2024.09*: Paper presentation at IEEE International Symposium on Personal, Indoor and Mobile Radio Communications.
+  
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
